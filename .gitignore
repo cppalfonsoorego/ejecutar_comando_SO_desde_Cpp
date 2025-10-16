@@ -2,6 +2,9 @@
 .vscode
 .vscode/*
 
+output/
+build/
+
 # Prerequisites
 *.d
 
